@@ -1,0 +1,36 @@
+wrapper {
+    width: 970 px;
+    display: block;
+}
+
+#cabeza {
+    background-color: black;
+    display: block;
+    min-height: 300px;
+}
+
+#contenedor {
+    background-color: blanchedalmond;
+    width: 950px;
+    margin: 0px auto;
+}
+
+.subcontenedor {
+    min-height: 200px;
+    width: 210px;
+    display: inline-block;
+}
+
+#bloque1 {
+    display: inline-block;
+    background-color: blanchedalmond;
+}
+
+#bloque2 {
+    display: inline-block;
+    background-color: blanchedalmond;
+}
+
+#advertens {
+    background-color: rgb(245, 187, 187);
+}
